@@ -14,12 +14,15 @@ La version d'Ubuntu est la 18.04.
 Pour ce script nous allons installer une machine Ubuntu 18.04, faire un apt update et l'utiliser comme serveur.
 Pour lancer le script sur Ubuntu il faut :
 
-...
+
     -mettre le script là où on le souhaite, pour ma part ça sera sur le bureau 
+    
     -ouvrir l’invite de commande
+    
     -se déplacer vers l’endroit où se trouve le script « cd Bureau » 
+    
     -taper « sudo python3 -nomDuScript-.py »
-...
+
 
 !Important! Il faut lancer le script avec la commande sudo afin de ne pas avoir de problèmes de droits.
 
