@@ -31,8 +31,8 @@ J'ai déjà pensé à des amériolarations pour le script. Nous pourrons l'amél
 en ajoutant d'autres services, en donnant la possibilité d'avoir plus de choix dans la 
 configuration...
 
-## Lexique 
+## Informations
 
-
-
-
+Dans ce répertoire vous allez trouver la documentation du projet, la présentation du code et 
+de son utilisation dans le Read me, la licence open source (MIT) et le code (main.py) avec les 
+descriptions en commentaire. 
